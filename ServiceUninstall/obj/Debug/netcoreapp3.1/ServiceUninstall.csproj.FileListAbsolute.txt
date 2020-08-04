@@ -1,0 +1,12 @@
+C:\Users\Stranik\source\repos\RMMService\ServiceUninstall\bin\Debug\netcoreapp3.1\ServiceUninstall.exe
+C:\Users\Stranik\source\repos\RMMService\ServiceUninstall\bin\Debug\netcoreapp3.1\ServiceUninstall.deps.json
+C:\Users\Stranik\source\repos\RMMService\ServiceUninstall\bin\Debug\netcoreapp3.1\ServiceUninstall.runtimeconfig.json
+C:\Users\Stranik\source\repos\RMMService\ServiceUninstall\bin\Debug\netcoreapp3.1\ServiceUninstall.runtimeconfig.dev.json
+C:\Users\Stranik\source\repos\RMMService\ServiceUninstall\bin\Debug\netcoreapp3.1\ServiceUninstall.dll
+C:\Users\Stranik\source\repos\RMMService\ServiceUninstall\bin\Debug\netcoreapp3.1\ServiceUninstall.pdb
+C:\Users\Stranik\source\repos\RMMService\ServiceUninstall\obj\Debug\netcoreapp3.1\ServiceUninstall.AssemblyInfoInputs.cache
+C:\Users\Stranik\source\repos\RMMService\ServiceUninstall\obj\Debug\netcoreapp3.1\ServiceUninstall.AssemblyInfo.cs
+C:\Users\Stranik\source\repos\RMMService\ServiceUninstall\obj\Debug\netcoreapp3.1\ServiceUninstall.csproj.CoreCompileInputs.cache
+C:\Users\Stranik\source\repos\RMMService\ServiceUninstall\obj\Debug\netcoreapp3.1\ServiceUninstall.dll
+C:\Users\Stranik\source\repos\RMMService\ServiceUninstall\obj\Debug\netcoreapp3.1\ServiceUninstall.pdb
+C:\Users\Stranik\source\repos\RMMService\ServiceUninstall\obj\Debug\netcoreapp3.1\ServiceUninstall.genruntimeconfig.cache

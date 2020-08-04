@@ -1,0 +1,13 @@
+C:\Users\Stranik\source\repos\RMMService\ServiceInstall\bin\Debug\netcoreapp3.1\ServiceInstall.exe
+C:\Users\Stranik\source\repos\RMMService\ServiceInstall\bin\Debug\netcoreapp3.1\ServiceInstall.deps.json
+C:\Users\Stranik\source\repos\RMMService\ServiceInstall\bin\Debug\netcoreapp3.1\ServiceInstall.runtimeconfig.json
+C:\Users\Stranik\source\repos\RMMService\ServiceInstall\bin\Debug\netcoreapp3.1\ServiceInstall.runtimeconfig.dev.json
+C:\Users\Stranik\source\repos\RMMService\ServiceInstall\bin\Debug\netcoreapp3.1\ServiceInstall.dll
+C:\Users\Stranik\source\repos\RMMService\ServiceInstall\bin\Debug\netcoreapp3.1\ServiceInstall.pdb
+C:\Users\Stranik\source\repos\RMMService\ServiceInstall\obj\Debug\netcoreapp3.1\ServiceInstall.AssemblyInfoInputs.cache
+C:\Users\Stranik\source\repos\RMMService\ServiceInstall\obj\Debug\netcoreapp3.1\ServiceInstall.AssemblyInfo.cs
+C:\Users\Stranik\source\repos\RMMService\ServiceInstall\obj\Debug\netcoreapp3.1\ServiceInstall.csproj.CoreCompileInputs.cache
+C:\Users\Stranik\source\repos\RMMService\ServiceInstall\obj\Debug\netcoreapp3.1\ServiceInstall.dll
+C:\Users\Stranik\source\repos\RMMService\ServiceInstall\obj\Debug\netcoreapp3.1\ServiceInstall.pdb
+C:\Users\Stranik\source\repos\RMMService\ServiceInstall\obj\Debug\netcoreapp3.1\ServiceInstall.genruntimeconfig.cache
+C:\Users\Stranik\source\repos\RMMService\ServiceInstall\obj\Debug\netcoreapp3.1\ServiceInstall.csprojAssemblyReference.cache
