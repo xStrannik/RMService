@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Users\\Stranik\\source\\repos\\RMMService\\ServiceInstall\\ServiceInstall.csproj": {
-      "version": "1.0.0",
+      "version": "0.0.1",
       "restore": {
         "projectUniqueName": "C:\\Users\\Stranik\\source\\repos\\RMMService\\ServiceInstall\\ServiceInstall.csproj",
         "projectName": "ServiceInstall",
@@ -40,6 +40,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "System.ServiceProcess.ServiceController": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

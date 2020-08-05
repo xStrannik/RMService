@@ -7,6 +7,11 @@ namespace ServiceUninstall
     {
         static void Main(string[] args)
         {
+            string serviceName = "RMMService";
+
+            //Console.WriteLine("Unistal...press any...111");
+            //Console.ReadLine();
+
             //Stop Service
             var processStopService = new System.Diagnostics.Process
             {
@@ -17,7 +22,7 @@ namespace ServiceUninstall
                     FileName = "cmd.exe",
                     //WorkingDirectory = @"C:\Users\Stranik\source\repos\RMMService\RMMService\bin\Debug\net48",
                     WorkingDirectory = AppDomain.CurrentDomain.BaseDirectory,
-                    Arguments = @"/k sc stop ZRMMService"
+                    Arguments = @$"/k sc stop {serviceName}"
                 }
             };
             processStopService.Start();
@@ -32,7 +37,7 @@ namespace ServiceUninstall
                     FileName = "cmd.exe",
                     //WorkingDirectory = @"C:\Users\Stranik\source\repos\RMMService\RMMService\bin\Debug\net48",
                     WorkingDirectory = AppDomain.CurrentDomain.BaseDirectory,
-                    Arguments = @"/k sc delete ZRMMService"
+                    Arguments = @$"/k sc delete {serviceName}"
                 }
             };
             processDeleteService.Start();

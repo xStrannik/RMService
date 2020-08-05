@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "ServiceUninstall/1.0.0": {
+      "ServiceUninstall/0.0.1": {
         "runtime": {
           "ServiceUninstall.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "ServiceUninstall/1.0.0": {
+    "ServiceUninstall/0.0.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

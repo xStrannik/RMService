@@ -6,8 +6,12 @@ C:\Users\Stranik\source\repos\RMMService\ServiceInstall\bin\Debug\netcoreapp3.1\
 C:\Users\Stranik\source\repos\RMMService\ServiceInstall\bin\Debug\netcoreapp3.1\ServiceInstall.pdb
 C:\Users\Stranik\source\repos\RMMService\ServiceInstall\obj\Debug\netcoreapp3.1\ServiceInstall.AssemblyInfoInputs.cache
 C:\Users\Stranik\source\repos\RMMService\ServiceInstall\obj\Debug\netcoreapp3.1\ServiceInstall.AssemblyInfo.cs
-C:\Users\Stranik\source\repos\RMMService\ServiceInstall\obj\Debug\netcoreapp3.1\ServiceInstall.csproj.CoreCompileInputs.cache
 C:\Users\Stranik\source\repos\RMMService\ServiceInstall\obj\Debug\netcoreapp3.1\ServiceInstall.dll
 C:\Users\Stranik\source\repos\RMMService\ServiceInstall\obj\Debug\netcoreapp3.1\ServiceInstall.pdb
 C:\Users\Stranik\source\repos\RMMService\ServiceInstall\obj\Debug\netcoreapp3.1\ServiceInstall.genruntimeconfig.cache
-C:\Users\Stranik\source\repos\RMMService\ServiceInstall\obj\Debug\netcoreapp3.1\ServiceInstall.csprojAssemblyReference.cache
+C:\Users\Stranik\source\repos\RMMService\ServiceInstall\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\Stranik\source\repos\RMMService\ServiceInstall\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+C:\Users\Stranik\source\repos\RMMService\ServiceInstall\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\Stranik\source\repos\RMMService\ServiceInstall\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\Stranik\source\repos\RMMService\ServiceInstall\obj\Debug\netcoreapp3.1\ServiceInstall.csproj.CoreCompileInputs.cache
+C:\Users\Stranik\source\repos\RMMService\ServiceInstall\obj\Debug\netcoreapp3.1\ServiceInstall.csproj.CopyComplete

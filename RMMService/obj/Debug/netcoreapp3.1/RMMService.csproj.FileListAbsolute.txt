@@ -42,4 +42,3 @@ C:\Users\Stranik\source\repos\RMMService\RMMService\obj\Debug\netcoreapp3.1\RMMS
 C:\Users\Stranik\source\repos\RMMService\RMMService\obj\Debug\netcoreapp3.1\RMMService.dll
 C:\Users\Stranik\source\repos\RMMService\RMMService\obj\Debug\netcoreapp3.1\RMMService.pdb
 C:\Users\Stranik\source\repos\RMMService\RMMService\obj\Debug\netcoreapp3.1\RMMService.genruntimeconfig.cache
-C:\Users\Stranik\source\repos\RMMService\RMMService\obj\Debug\netcoreapp3.1\RMMService.csprojAssemblyReference.cache

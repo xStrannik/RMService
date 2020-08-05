@@ -11,3 +11,8 @@ C:\Users\Stranik\source\repos\RMMService\ServiceInstall\obj\Release\netcoreapp3.
 C:\Users\Stranik\source\repos\RMMService\ServiceInstall\obj\Release\netcoreapp3.1\ServiceInstall.dll
 C:\Users\Stranik\source\repos\RMMService\ServiceInstall\obj\Release\netcoreapp3.1\ServiceInstall.pdb
 C:\Users\Stranik\source\repos\RMMService\ServiceInstall\obj\Release\netcoreapp3.1\ServiceInstall.genruntimeconfig.cache
+C:\Users\Stranik\source\repos\RMMService\ServiceInstall\bin\Release\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\Stranik\source\repos\RMMService\ServiceInstall\bin\Release\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+C:\Users\Stranik\source\repos\RMMService\ServiceInstall\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\Stranik\source\repos\RMMService\ServiceInstall\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\Stranik\source\repos\RMMService\ServiceInstall\obj\Release\netcoreapp3.1\ServiceInstall.csproj.CopyComplete

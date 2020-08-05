@@ -39,7 +39,7 @@ namespace RMMService.Models.Workers
             }, token);
 
             //using (var writer = new StreamWriter(settings.ResultPath, true, Encoding.UTF8))
-            using (var writer = new StreamWriter(Environment.CurrentDirectory + settings.ResultPath, true, Encoding.UTF8))
+            using (var writer = new StreamWriter(AppDomain.CurrentDomain.BaseDirectory + settings.ResultPath, true, Encoding.UTF8))
             {
                 writer.WriteLine(DateTime.Now.ToString() + " : " + string.Join(" ", result));
             }
