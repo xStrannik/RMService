@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "ServiceInstall/0.0.1": {
+      "ServiceInstall/0.0.2": {
         "dependencies": {
           "System.ServiceProcess.ServiceController": "4.7.0"
         },
@@ -71,7 +71,7 @@
     }
   },
   "libraries": {
-    "ServiceInstall/0.0.1": {
+    "ServiceInstall/0.0.2": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

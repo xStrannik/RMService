@@ -60,7 +60,7 @@ namespace ServiceInstall
                     //WorkingDirectory = @"C:\Users\Stranik\source\repos\RMMService\RMMService\bin\Debug\net48",  sc create ZRMMService binpath=B:\1111\RMMService.exe start = auto
                     WorkingDirectory = AppDomain.CurrentDomain.BaseDirectory,
                     // Arguments = @"/k sc create ZRMMService binpath=C:\Users\Stranik\source\repos\RMMService\RMMService\bin\Debug\net48\RMMService.exe start=auto"
-                    Arguments = @$"/k sc create {_serviceName} binpath=" + AppDomain.CurrentDomain.BaseDirectory + @"RMMService.exe start=auto",
+                    Arguments = $"/k sc create {_serviceName} binpath=\"" + AppDomain.CurrentDomain.BaseDirectory + "RMMService.exe\" start=auto",
                 }
             };
             processCreateService.Start();

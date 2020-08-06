@@ -357,7 +357,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "restore": {
       "projectUniqueName": "C:\\Users\\Stranik\\source\\repos\\RMMService\\ServiceInstall\\ServiceInstall.csproj",
       "projectName": "ServiceInstall",
