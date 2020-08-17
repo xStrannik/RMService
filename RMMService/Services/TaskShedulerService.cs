@@ -1,15 +1,14 @@
-﻿using Microsoft.Extensions.Configuration;
+﻿using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Logging;
+using RMMService.Models;
+using RMMService.Services.TaskQueue;
+using RMMService.Workers;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-using RMMService.Models;
-using Microsoft.Extensions.Logging;
-using RMMService.Models.Workers;
-using RMMService.Services.TaskQueue;
 
 namespace RMMService.Services
 {
@@ -33,7 +32,7 @@ namespace RMMService.Services
         {
             var interval = settings?.RunInterval ?? 0;
 
-            if(interval == 0)
+            if (interval == 0)
             {
                 logger.LogWarning("checkInterval is not defined in settings. Set to default: 60 sec.");
                 interval = 60;

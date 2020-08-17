@@ -2,16 +2,5 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <_LastSelectedProfileId>C:\Users\Stranik\source\repos\RMMService\RMMService\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
-    <ActiveDebugFramework>net48</ActiveDebugFramework>
   </PropertyGroup>
-  <ItemGroup>
-    <Compile Update="WindowsService\ServiceBaseLifetime.cs">
-      <SubType>Component</SubType>
-    </Compile>
-  </ItemGroup>
-  <ItemGroup>
-    <None Update="WindowsService\ServiceBaseLifetime.cs">
-      <SubType>Component</SubType>
-    </None>
-  </ItemGroup>
 </Project>

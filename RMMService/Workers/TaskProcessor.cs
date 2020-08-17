@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.Logging;
+using RMMService.Models;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -7,7 +8,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace RMMService.Models.Workers
+namespace RMMService.Workers
 {
     public class TaskProcessor
     {

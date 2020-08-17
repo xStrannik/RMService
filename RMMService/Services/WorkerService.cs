@@ -1,8 +1,8 @@
-﻿using RMMService.Models;
-using RMMService.Models.Workers;
-using RMMService.Services.TaskQueue;
-using Microsoft.Extensions.Hosting;
+﻿using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using RMMService.Models;
+using RMMService.Services.TaskQueue;
+using RMMService.Workers;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -25,10 +25,10 @@ namespace RMMService.Services
             this.settings = settings;
         }
 
-        protected override async Task ExecuteAsync(CancellationToken token)
+        protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
             var workersCount = settings.WorkersCount;
-            var workers = Enumerable.Range(0, workersCount).Select(num => RunInstance(num, token));
+            var workers = Enumerable.Range(0, workersCount).Select(num => RunInstance(num, stoppingToken));
 
             await Task.WhenAll(workers);
         }
