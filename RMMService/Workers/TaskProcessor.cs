@@ -38,9 +38,9 @@ namespace RMMService.Workers
                 await Task.Delay(1000);
                 return Enumerable.Range(0, number).Select(n => fibonacci(n));
             }, token);
-
+            
             //using (var writer = new StreamWriter(settings.ResultPath, true, Encoding.UTF8))
-            using (var writer = new StreamWriter(AppDomain.CurrentDomain.BaseDirectory + settings.ResultPath, true, Encoding.UTF8))
+            using (var writer = new StreamWriter($"{AppDomain.CurrentDomain.BaseDirectory}{settings.ResultPath}", true, Encoding.UTF8))
             {
                 writer.WriteLine(DateTime.Now.ToString() + " : " + string.Join(" ", result));
             }
